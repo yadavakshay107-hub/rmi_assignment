@@ -1,6 +1,6 @@
 # RMI Assignment
 
-This repository contains the assignments for RMI course.
+This repository contains the solved assignment for the role of Data Engineer at RMI.
 
 ## Getting Started
 
